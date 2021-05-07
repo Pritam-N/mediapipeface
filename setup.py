@@ -5,9 +5,9 @@ with open('README.md', 'r') as fh:
 
 setup(
     name='mediapipeface',
-    version='0.1.2',
+    version='0.1.0',
     description='Mediapipe face implementations.',
-    url='',
+    url='https://github.com/Pritam-N/mediapipeface',
     author='Pritama Nayak',
     author_email='nayak264@gmail.com',
     py_modules=['helloworld', 'facedetectmodule','facemeshmodule'],
